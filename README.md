@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Pedro Escamilla]
+# 👋 Hi there! I'm Pedro Escamilla!
 
 [![Visits](https://visitor-badge.glitch.me/badge?page_id=username.username)](https://github.com/XPedroEs21) 
 
