@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Pedro Escamilla!
 
-[![Visits](https://visitor-badge.glitch.me/badge?page_id=username.username)](https://github.com/XPedroEs21) 
-
 I'm a Full Stack Software Developer who wants to start his software developer career in the industry! A pleasure to meet you
 
 ## 🚀 About Me
