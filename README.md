@@ -10,8 +10,6 @@ I'm a Full Stack Software Developer who wants to start his software developer ca
 
 ## 🛠️ Skills
 
-During my certification I took 14 Courses completed on various Application Development and Cloud Technologies, I coded a lot of projects but these are the ones I enjoyed the most.
-
 - **Programming Languages**: 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -47,6 +45,8 @@ During my certification I took 14 Courses completed on various Application Devel
 
 
 ## 💼 Featured Projects
+
+During my certification I took 14 Courses completed on various Application Development and Cloud Technologies, I coded a lot of projects but these are the ones I enjoyed the most.
 
 ### [Full Stack Software Development Capstone Project](https://github.com/XPedroEs21/Fullstack_Capstone_FP)
 - **Description**: website, where customers could access a central database of car dealerships, and reviews around the USA, letting them create accounts and leave reviews powered with Watson.
